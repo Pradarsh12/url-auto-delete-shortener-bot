@@ -21,7 +21,7 @@ from database.filters_mdb import (
     get_filters,
 )
 import os
-req_channel = int(os.environ.get('REQ_CHANNEL','-1001943990782'))
+req_channel = int(os.environ.get('REQ_CHANNEL','-1001701312669'))
 
 import logging
 
@@ -111,7 +111,7 @@ async def next_page(bot, query):
 
     btn.insert(0,
         [
-            InlineKeyboardButton(text="⚡ʜᴏᴡ ᴛᴏ ᴅᴏᴡɴʟᴏᴀᴅ⚡", url='https://t.me/Netflix_weblinks/11')
+            InlineKeyboardButton(text="⚡ʜᴏᴡ ᴛᴏ ᴅᴏᴡɴʟᴏᴀᴅ⚡", url='https://t.me/mittalbots/46')
         ]
     )
 
