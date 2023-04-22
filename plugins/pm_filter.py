@@ -195,13 +195,13 @@ async def cb_handler(client: Client, query: CallbackQuery):
                     title = chat.title
                 except:
                     await query.message.edit_text("Make sure I'm present in your group!!", quote=True)
-                    return await query.answer('♥️ Love @LazyDeveloper ♥️')
+                    return await query.answer('♥️ Love @mittalbots ♥️')
             else:
                 await query.message.edit_text(
                     "I'm not connected to any groups!\nCheck /connections or connect to any groups",
                     quote=True
                 )
-                return await query.answer('♥️ Thank You LazyDeveloper ♥️')
+                return await query.answer('♥️ Thank You MITTAL BOTS ♥️')
 
 
         elif chat_type in [enums.ChatType.GROUP, enums.ChatType.SUPERGROUP]:
@@ -445,8 +445,8 @@ async def cb_handler(client: Client, query: CallbackQuery):
         buttons = [[
             InlineKeyboardButton('⚚ ΛᎠᎠ MΞ ϮԾ YԾUᏒ GᏒԾUᎮ ⚚', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
         ], [
-            InlineKeyboardButton('⚡ SUBSCᏒIBΞ ⚡', url='https://t.me/New_movies_hindi_eng'),
-            InlineKeyboardButton('🤖 UᎮDΛTΞS 🤖', url='https://t.me/New_movies_hindi_eng')
+            InlineKeyboardButton('⚡ SUBSCᏒIBΞ ⚡', url='https://youtube.com/@GreyMattersYT'),
+            InlineKeyboardButton('🤖 UᎮDΛTΞS 🤖', url='https://t.me/mittalbots')
         ], [
             InlineKeyboardButton('♻️ HΞLᎮ ♻️', callback_data='help'),
             InlineKeyboardButton('♻️ ΛBOUT ♻️', callback_data='about')
@@ -532,11 +532,11 @@ async def cb_handler(client: Client, query: CallbackQuery):
         # Send message to user
         try:
             btn = [[
-                InlineKeyboardButton(text=f"🔍 Search Here 🔎", url=f"https://telegram.me/WEB_MOVIES_REQ")
+                InlineKeyboardButton(text=f"🔍 Search Here 🔎", url=f"https://telegram.me/Teg_movi_bot")
             ],[
-                InlineKeyboardButton(text=f"🐞MAIN CHANNEL🐞", url=f"https://telegram.me/New_movies_hindi_eng")
+                InlineKeyboardButton(text=f"🐞MAIN CHANNEL🐞", url=f"https://telegram.me/https://youtube.com/@GreyMattersYT")
             ],[
-                InlineKeyboardButton(text=f"⚡️ HOW TO DOWNLOAD 🦋", url=f"https://t.me/Netflix_weblinks/11")
+                InlineKeyboardButton(text=f"⚡️ HOW TO DOWNLOAD 🦋", url=f"https://t.me/mittalbots/46")
 
             ]]
             btn_lzdv = [
@@ -560,11 +560,11 @@ async def cb_handler(client: Client, query: CallbackQuery):
         # Send message to user
         try:
             btn = [[
-                InlineKeyboardButton(text=f"🔍 Search Here 🔎", url=f"https://telegram.me/WEB_MOVIES_REQ")
+                InlineKeyboardButton(text=f"🔍 Search Here 🔎", url=f"https://telegram.me/Teg_movi_bot")
             ],[
-                InlineKeyboardButton(text=f"🐞MAIN CHANNEL🐞", url=f"https://telegram.me/New_movies_hindi_eng")
+                InlineKeyboardButton(text=f"🐞MAIN CHANNEL🐞", url=f"https://youtube.com/@GreyMattersYT")
             ],[
-                InlineKeyboardButton(text=f"⚡️ HOW TO DOWNLOAD 🦋", url=f"https://t.me/Netflix_weblinks/11")
+                InlineKeyboardButton(text=f"⚡️ HOW TO DOWNLOAD 🦋", url=f"https://t.me/mittalbots/46")
 
             ]]
             btn_lzdv = [
@@ -587,11 +587,11 @@ async def cb_handler(client: Client, query: CallbackQuery):
         # Send message to user
         try:
             btn = [[
-                InlineKeyboardButton(text=f"🔍 Search Here 🔎", url=f"https://telegram.me/WEB_MOVIES_REQ")
+                InlineKeyboardButton(text=f"🔍 Search Here 🔎", url=f"https://telegram.me/Teg_movi_bot")
             ],[
-                InlineKeyboardButton(text=f"🐞MAIN CHANNEL🐞", url=f"https://telegram.me/New_movies_hindi_eng")
+                InlineKeyboardButton(text=f"🐞MAIN CHANNEL🐞", url=f"https://youtube.com/@GreyMattersYT")
             ],[
-                InlineKeyboardButton(text=f"⚡️ HOW TO DOWNLOAD 🦋", url=f"https://t.me/Netflix_weblinks/11")
+                InlineKeyboardButton(text=f"⚡️ HOW TO DOWNLOAD 🦋", url=f"https://t.me/mittalbots/46")
 
             ]]
             btn_lzdv = [
@@ -614,11 +614,11 @@ async def cb_handler(client: Client, query: CallbackQuery):
         # Send message to user
         try:
             btn = [[
-                InlineKeyboardButton(text=f"🔍 Search Here 🔎", url=f"https://telegram.me/WEB_MOVIES_REQ")
+                InlineKeyboardButton(text=f"🔍 Search Here 🔎", url=f"https://telegram.me/Teg_movi_bot")
             ],[
-                InlineKeyboardButton(text=f"🐞MAIN CHANNEL🐞", url=f"https://telegram.me/New_movies_hindi_eng")
+                InlineKeyboardButton(text=f"🐞MAIN CHANNEL🐞", url=f"https://youtube.com/@GreyMattersYT")
             ],[
-                InlineKeyboardButton(text=f"⚡️ HOW TO DOWNLOAD 🦋", url=f"https://t.me/Netflix_weblinks/11")
+                InlineKeyboardButton(text=f"⚡️ HOW TO DOWNLOAD 🦋", url=f"https://t.me/mittalbots/46")
 
             ]]
             btn_lzdv = [
@@ -641,11 +641,11 @@ async def cb_handler(client: Client, query: CallbackQuery):
         # Send message to user
         try:
             btn = [[
-                InlineKeyboardButton(text=f"🔍 Search Here 🔎", url=f"https://telegram.me/WEB_MOVIES_REQ")
+                InlineKeyboardButton(text=f"🔍 Search Here 🔎", url=f"https://telegram.me/Teg_movi_bot")
             ],[
-                InlineKeyboardButton(text=f"🐞MAIN CHANNEL🐞", url=f"https://telegram.me/New_movies_hindi_eng")
+                InlineKeyboardButton(text=f"🐞MAIN CHANNEL🐞", url=f"https://youtube.com/@GreyMattersYT")
             ],[
-                InlineKeyboardButton(text=f"⚡️ HOW TO DOWNLOAD 🦋", url=f"https://t.me/Netflix_weblinks/11")
+                InlineKeyboardButton(text=f"⚡️ HOW TO DOWNLOAD 🦋", url=f"https://t.me/mittalbots/46")
 
             ]]
             btn_lzdv = [
@@ -854,9 +854,9 @@ async def auto_filter(client, msg, spoll=False):
 
 
 
-                l = await message.reply_text(text=f"△ 𝙷𝚎𝚢 𝚜𝚘𝚗𝚊 `{message.from_user.first_name}` 😎,\n\nʏᴏᴜʀ ʀᴇQᴜᴇꜱᴛ ʜᴀꜱ ʙᴇᴇɴ ꜱᴇɴᴛ ᴛᴏ ᴏᴜʀ **ᴀᴅᴍɪɴ'ꜱ ᴅᴀꜱʜʙᴏᴀʀᴅ** !\nᴘʟᴇᴀꜱᴇ ᴋᴇᴇᴘ ꜱᴏᴍᴇ ᴘᴀᴛɪᴇɴᴄᴇ !\nᴛʜᴇʏ ᴡɪʟʟ ᴜᴘʟᴏᴀᴅ ɪᴛ ᴀꜱ ꜱᴏᴏɴ ᴀꜱ ᴘᴏꜱꜱɪʙʟᴇ.\n\n➟ 📝𝘾𝙤𝙣𝙩𝙚𝙣𝙩 𝙣𝙖𝙢𝙚 : `{search}`\n➟ 👮𝙍𝙚𝙦𝙪𝙚𝙨𝙩𝙚𝙙 𝘽𝙮 : `{message.from_user.first_name}`\n\n༺ @New_movies_hindi_eng ༻\n\n╰┈➤・☆ @Bharath_boy",
+                l = await message.reply_text(text=f"△ 𝙷𝚎𝚢 𝚜𝚘𝚗𝚊 `{message.from_user.first_name}` 😎,\n\nʏᴏᴜʀ ʀᴇQᴜᴇꜱᴛ ʜᴀꜱ ʙᴇᴇɴ ꜱᴇɴᴛ ᴛᴏ ᴏᴜʀ **ᴀᴅᴍɪɴ'ꜱ ᴅᴀꜱʜʙᴏᴀʀᴅ** !\nᴘʟᴇᴀꜱᴇ ᴋᴇᴇᴘ ꜱᴏᴍᴇ ᴘᴀᴛɪᴇɴᴄᴇ !\nᴛʜᴇʏ ᴡɪʟʟ ᴜᴘʟᴏᴀᴅ ɪᴛ ᴀꜱ ꜱᴏᴏɴ ᴀꜱ ᴘᴏꜱꜱɪʙʟᴇ.\n\n➟ 📝𝘾𝙤𝙣𝙩𝙚𝙣𝙩 𝙣𝙖𝙢𝙚 : `{search}`\n➟ 👮𝙍𝙚𝙦𝙪𝙚𝙨𝙩𝙚𝙙 𝘽𝙮 : `{message.from_user.first_name}`\n\n༺ @mittalbots ༻\n\n╰┈➤・☆ @soonbotmaker0",
 
-                                                                                                       reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton("━ • │▌║ MAIN CHANNEL ║▌│ • ━", url=f'https://t.me/New_movies_hindi_eng')],[InlineKeyboardButton("✪ MAIN channel✪", url=f"https://t.me/New_movies_hindi_eng"), InlineKeyboardButton("✪ MOVIES REQUEST GRP ✪", url=f"https://t.me/WEB_MOVIES_REQ")],[InlineKeyboardButton("╚»♥️ Thank You ♥️«╝", callback_data="close_data")]]))
+                                                                                                       reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton("━ • │▌║ MAIN CHANNEL ║▌│ • ━", url=f'https://youtube.com/@GreyMattersYT')],[InlineKeyboardButton("✪ MAIN channel✪", url=f"https://t.me/mittalbots"), InlineKeyboardButton("✪ MOVIES REQUEST BOT ✪", url=f"https://t.me/Teg_movi_bot")],[InlineKeyboardButton("╚»♥️ Thank You ♥️«╝", callback_data="close_data")]]))
 
                 await asyncio.sleep(20)
 
@@ -908,7 +908,7 @@ async def auto_filter(client, msg, spoll=False):
 
     btn.insert(0,
         [
-            InlineKeyboardButton(text="⚡ʜᴏᴡ ᴛᴏ ᴅᴏᴡɴʟᴏᴀᴅ⚡", url='https://t.me/Netflix_weblinks/11')
+            InlineKeyboardButton(text="⚡ʜᴏᴡ ᴛᴏ ᴅᴏᴡɴʟᴏᴀᴅ⚡", url='https://t.me/mittalbots/46')
         ]
     )
 
@@ -1038,7 +1038,7 @@ async def advantage_spell_chok(msg):
         )
     ] for k, movie in enumerate(movielist)]
     btn.append([InlineKeyboardButton(text="Close", callback_data=f'spolling#{user}#close_spellcheck')])
-    await msg.reply("I will update you in pm when movie is available\njoin: @New_movies_hindi_eng")#,
+    await msg.reply("I will update you in pm when movie is available\njoin: @mittalbots")#,
                    # reply_markup=InlineKeyboardMarkup(btn))
 
 
