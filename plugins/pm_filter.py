@@ -532,7 +532,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
         # Send message to user
         try:
             btn = [[
-                InlineKeyboardButton(text=f"🔍 Search Here 🔎", url=f"https://telegram.me/Teg_movi_bot")
+                InlineKeyboardButton(text=f"🔍 Search Here 🔎", url=f"https://telegram.me/GreyMatters_Movies_Bot")
             ],[
                 InlineKeyboardButton(text=f"🐞MAIN CHANNEL🐞", url=f"https://telegram.me/https://youtube.com/@GreyMattersYT")
             ],[
@@ -560,7 +560,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
         # Send message to user
         try:
             btn = [[
-                InlineKeyboardButton(text=f"🔍 Search Here 🔎", url=f"https://telegram.me/Teg_movi_bot")
+                InlineKeyboardButton(text=f"🔍 Search Here 🔎", url=f"https://telegram.me/GreyMatters_Movies_Bot")
             ],[
                 InlineKeyboardButton(text=f"🐞MAIN CHANNEL🐞", url=f"https://youtube.com/@GreyMattersYT")
             ],[
@@ -587,7 +587,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
         # Send message to user
         try:
             btn = [[
-                InlineKeyboardButton(text=f"🔍 Search Here 🔎", url=f"https://telegram.me/Teg_movi_bot")
+                InlineKeyboardButton(text=f"🔍 Search Here 🔎", url=f"https://telegram.me/GreyMatters_Movies_Bot")
             ],[
                 InlineKeyboardButton(text=f"🐞MAIN CHANNEL🐞", url=f"https://youtube.com/@GreyMattersYT")
             ],[
@@ -614,7 +614,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
         # Send message to user
         try:
             btn = [[
-                InlineKeyboardButton(text=f"🔍 Search Here 🔎", url=f"https://telegram.me/Teg_movi_bot")
+                InlineKeyboardButton(text=f"🔍 Search Here 🔎", url=f"https://telegram.me/GreyMatters_Movies_Bot")
             ],[
                 InlineKeyboardButton(text=f"🐞MAIN CHANNEL🐞", url=f"https://youtube.com/@GreyMattersYT")
             ],[
@@ -641,7 +641,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
         # Send message to user
         try:
             btn = [[
-                InlineKeyboardButton(text=f"🔍 Search Here 🔎", url=f"https://telegram.me/Teg_movi_bot")
+                InlineKeyboardButton(text=f"🔍 Search Here 🔎", url=f"https://telegram.me/GreyMatters_Movies_Bot")
             ],[
                 InlineKeyboardButton(text=f"🐞MAIN CHANNEL🐞", url=f"https://youtube.com/@GreyMattersYT")
             ],[
@@ -856,7 +856,7 @@ async def auto_filter(client, msg, spoll=False):
 
                 l = await message.reply_text(text=f"△ 𝙷𝚎𝚢 𝚜𝚘𝚗𝚊 `{message.from_user.first_name}` 😎,\n\nʏᴏᴜʀ ʀᴇQᴜᴇꜱᴛ ʜᴀꜱ ʙᴇᴇɴ ꜱᴇɴᴛ ᴛᴏ ᴏᴜʀ **ᴀᴅᴍɪɴ'ꜱ ᴅᴀꜱʜʙᴏᴀʀᴅ** !\nᴘʟᴇᴀꜱᴇ ᴋᴇᴇᴘ ꜱᴏᴍᴇ ᴘᴀᴛɪᴇɴᴄᴇ !\nᴛʜᴇʏ ᴡɪʟʟ ᴜᴘʟᴏᴀᴅ ɪᴛ ᴀꜱ ꜱᴏᴏɴ ᴀꜱ ᴘᴏꜱꜱɪʙʟᴇ.\n\n➟ 📝𝘾𝙤𝙣𝙩𝙚𝙣𝙩 𝙣𝙖𝙢𝙚 : `{search}`\n➟ 👮𝙍𝙚𝙦𝙪𝙚𝙨𝙩𝙚𝙙 𝘽𝙮 : `{message.from_user.first_name}`\n\n༺ @mittalbots ༻\n\n╰┈➤・☆ @soonbotmaker0",
 
-                                                                                                       reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton("━ • │▌║ MAIN CHANNEL ║▌│ • ━", url=f'https://youtube.com/@GreyMattersYT')],[InlineKeyboardButton("✪ MAIN channel✪", url=f"https://t.me/mittalbots"), InlineKeyboardButton("✪ MOVIES REQUEST BOT ✪", url=f"https://t.me/Teg_movi_bot")],[InlineKeyboardButton("╚»♥️ Thank You ♥️«╝", callback_data="close_data")]]))
+                                                                                                       reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton("━ • │▌║ MAIN CHANNEL ║▌│ • ━", url=f'https://youtube.com/@GreyMattersYT')],[InlineKeyboardButton("✪ MAIN channel✪", url=f"https://t.me/mittalbots"), InlineKeyboardButton("✪ MOVIES REQUEST BOT ✪", url=f"https://t.me/GreyMatters_Movies_Bot")],[InlineKeyboardButton("╚»♥️ Thank You ♥️«╝", callback_data="close_data")]]))
 
                 await asyncio.sleep(20)
 
